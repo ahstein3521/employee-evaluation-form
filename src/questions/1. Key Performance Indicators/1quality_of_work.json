@@ -1,0 +1,31 @@
+{	
+	"questions": [{
+		"label": "Demonstrates Competency in Work Skills Required for Job",
+		"options": [
+			"Possesses Advanced Skills",
+			"Possesses Adequate Skills",
+			"Requires Training to Raise Skill Level"
+		]
+	}, {
+		"label": "Demonstrates Good Understanding of Changes Affecting the Job",
+		"options": [
+			"Able to assist colleagues with changes",
+			"Does not require additional training for any changes",
+			"Requires additional training or assistance to adapt to changes"
+		]
+	}, {
+		"label": "Able to Troubleshoot or Correct Errors",
+		"options": [
+			"Brings questions to appropriate management/executive staff before an issue arise",
+			"Responds in a timely manner to issues, and does not require multiple training sessions on issues",
+			"Requires repeat training or assistance to correct errors"
+		]
+	}, {
+		"label": "Time/Resource Management and Efficiency",
+		"options": [
+			"Manages Time Effectively and Makes the Supervisor’s job easier",
+			"Requires Occasional Assistance from Supervisor to Organize Time/Resources",
+			"Regularly has Issues with Time/Resource Management"
+		]
+	}]
+}

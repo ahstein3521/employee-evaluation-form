@@ -1,0 +1,47 @@
+{
+
+     "questions": [{
+          "label": "Follows Dress Code/Has Professional Appearance",
+          "options": [
+               "Consistently Meets Dress Code",
+               "Inconsistently Meets Dress Code"
+          ]
+     }, {
+          "label": "Punctual (Prepared to Start Work on Time)",
+          "options": [
+               "Is Always Punctual and Prepared",
+               "Is Inconsistently Punctual and Prepared"
+          ]
+     }, {
+          "label": "Follows Time Off Request Procedures Correctly",
+          "options": [
+               "Yes",
+               "No"
+          ]
+     }, {
+          "label": "Completes Timecards on Time (for OT or unpaid time)",
+          "options": [
+               "Yes",
+               "No"
+          ]
+     }, {
+          "label": "Dependability (Sick/Emergency Time Off)",
+          "options": [
+               "0 Hours Per Year",
+               "0-40 Hours Per Year",
+               ">40 Hours Per Year"
+          ]
+     }, {
+          "label": "Unpaid Time Off Used",
+          "options": [
+               "Yes",
+               "No"
+          ]
+     }, {
+          "label": "Disciplinary Action Taken",
+          "options": [
+               "None",
+               "Any Written Warning added to Kin Files"
+          ]
+     }]
+}

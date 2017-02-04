@@ -1,0 +1,32 @@
+{
+  "questions": [{
+    "label": "Continuing Education Participation",
+    "options": [
+      ">2 classes/year",
+      "1-2 classes/year",
+      "0 classes/year"
+    ]
+  }, {
+    "label": "Company Wide Educational Program",
+    "options": [
+      "Presented at 1+ Inservices and was actively engaged and interacted in all other Inservices and created blogs/bulletin boards as needed.",
+      "Attended all Inservices, but was not always actively engaged or presenting, and created blogs/bulletin boards as needed",
+      "I missed 1+ Inservice and/or was not able to present and/or be actively engaged in those attended, or did not complete blogs/bulletin boards as needed"
+    ]
+  }, {
+    "label": "Clinic Inservices",
+    "options": [
+      "Organized and/or presented at 1+ Inservices in clinic, and was actively engaged and interacted in all other Inservices",
+      "Attended and was actively engaged in all clinic Inservices",
+      "Did not attend and/or was not actively engaged in all clinic Inservices "
+    ]
+  }, {
+    "label": "Participation in Co-Treatment and Cross Referral",
+    "options": [
+      ">2 Sessions/Month",
+      "1-2 Sessions/Month",
+      ">1 Sessions/Month"
+    ]
+  }]
+}
+

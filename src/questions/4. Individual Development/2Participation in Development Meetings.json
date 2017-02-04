@@ -1,0 +1,32 @@
+{
+  "questions": [{
+    "label": "Employee is actively involved in updating and adding goals throughout the year.",
+    "options": [
+    	"Yes",
+    	"No"
+    ]
+  }, {
+    "label": "Employee establishes specific and measurable short term goals.",
+    "options": [
+    	"Yes",
+    	"No"
+    ]
+  }, {
+    "label": "Employee has established long term goals and set up realistic, measurable steps/plan to achieve them.",
+    "options": [
+    	"Yes",
+    	"No"
+    ]
+  }, {
+    "label": "Employee actively works to improve on constructive feedback and suggestions from Supervisor and Executive Staff.",
+    "options": [
+    	"Yes",
+    	"No"    	
+    ]
+  },{
+  	"label":"Employee has achieved a milestone professional certification (i.e. OCS, pelvic health, etc)",
+  	 "label2":"Please note in Comments.",
+  	 "Bonus":"true",
+  	 "options":["Yes"]
+  }]
+}

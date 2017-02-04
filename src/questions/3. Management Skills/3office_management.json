@@ -1,0 +1,61 @@
+{
+     "questions": [{
+          "label": "Office Appearance and Experience",
+          "label2":"(is the office consistently maintained in accordance with #JV Experience standards)",
+          "options": [
+               "Office is always welcoming to patients, no complaints on satisfaction surveys or from Executive staff visits",
+               "Office occasionally has issues brought up, but they are quickly resolved by the manager without assistance",
+               "Office has had frequent issues, which require assistance from Executive staff to address"
+          ]
+     }, {
+          "label": "Company Policy Implementation/Enforcement",
+          "options": [
+               "All Staff follows Company Policy without Issue or Outside Assistance from Executive Staff",
+               "Occasionally Requires Appropriate Assistance from Executive Staff to Manage Company Policies",
+               "Requires Multiple Interventions by Executive Staff to Manage Company Policies"
+          ]
+     }, {
+          "label": "JV Bucks (accurate and timely reporting)",
+          "options": [
+              "Reported accurately and on time each month",
+              "Occasionally has incorrect or late reporting",
+              "Has difficulty submitting correctly on multiple occasions"
+          ]
+     }, {
+          "label": "CC report and Receipts Submissions",
+          "options": [
+               "Reported accurately and on time each month",
+               "Occasionally has incorrect or late reporting",
+               "Has difficulty submitting correctly on multiple occasions"
+          ]
+     }, {
+          "label": "Asset Management",
+          "label2": "(maintaining all office equipment – computers, clinical and administrative supplies, laundry, etc)",
+          "options": [
+               "Manager Consistently Anticipates Needs of Clinic and Requires No Outside Assistance from Executive Staff",
+               "Manager Occasionally Requests Appropriate Assistance from Executive Staff",
+               "Manager Consistently Requires Intervention from Executive Staff to Manage Assets"
+          ]
+     }, {
+          "label": "Office Growth",
+          "options": [
+               " % growth in Number of Visits per Year exceeds previous year’s growth",
+               " % growth in Number of Visits per Year approximates previous year’s growth",
+               "% growth in Number of Visits per Year below previous year’s growth"             
+          ]},
+{
+          "label": "Office Growth Relative to Company Growth",
+          "options": [
+               "% growth in Number of Visits per Year exceeds Company’s growth",
+               "% growth in Number of Visits per Year approximates Company’s growth",
+               "% growth in Number of Visits per Year below Company’s growth"             
+          ]},
+          {
+          "label": "Profitability",
+          "options": [
+               "% growth in Profit per Year exceeds previous year’s growth",
+               "% growth in Profit per Year approximates previous year’s growth",
+               "% growth in Profit per Year below previous year’s growth"             
+          ]}          
+        ]
+}
